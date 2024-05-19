@@ -1,106 +1,181 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>In memory of...</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      text-align: center;
-      background-color: #585858; /* Dark gray background */
-      margin: 0;
-      padding: 0;
-      color: white; /* Text color set to white */
-    }
-    .container {
-      padding-top: 50px;
-      padding-bottom: 50px;
-      max-width: 1400px;
-      margin: 0 auto;
-    }
-    h1 {
-      font-size: 36px;
-      margin-bottom: 20px;
-    }
-    h2 {
-      font-size: 24px;
-      margin-bottom: 10px;
-    }
-    #countdown {
-      font-size: 24px;
-      margin-bottom: 20px;
-    }
-    p {
-      font-size: 16px;
-      margin-bottom: 20px;
-    }
-    .disclaimer {
-      font-size: 6px; /* Adjusted the font size to 8px */
-    }
-    #rt-logo {
-      background: url(https://www.biblesociety.co.za/images/rocketlauncher/home/Logo/LOGO_SMALL.png) 50% 0 no-repeat !important;
-      width: 210px;
-      height: 144px;
-      margin: 0 auto;
-    }
-    /* Adding CSS rule to change link color to green */
-    a {
-      color: green;
-      font-weight: bold;
-    }
-  </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bybelgenootskap van Suid-Afrika</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+
+        header {
+            background: #004b87;
+            color: #fff;
+            padding: 1rem 0;
+            text-align: center;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 2.5rem;
+        }
+
+        nav {
+            background: #003366;
+            padding: 0.5rem 0;
+            text-align: center;
+        }
+
+        nav ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+            display: inline-block;
+        }
+
+        nav ul li {
+            display: inline;
+            margin: 0 1rem;
+        }
+
+        nav ul li a {
+            color: #fff;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+
+        section {
+            padding: 0rem 0; /* Reduced padding */
+        }
+
+        section#home {
+            background: #f4f4f4;
+        }
+
+        footer {
+            background: #004b87;
+            color: #fff;
+            text-align: center;
+            padding: 1rem 0;
+            margin-top: 1rem; /* Reduced margin */
+        }
+
+        .content img {
+            max-width: 100%;
+            height: auto;
+        }
+
+        .content h2 {
+            color: #004b87;
+        }
+
+        .content p {
+            margin-bottom: 0rem;
+        }
+
+        form label {
+            display: block;
+            margin: 0.5rem 0 0.2rem;
+        }
+
+        form input, form textarea, form button {
+            display: block;
+            width: 100%;
+            padding: 0.5rem;
+            margin-bottom: 1rem;
+        }
+
+        form input[type="file"] {
+            padding: 0;
+        }
+    </style>
 </head>
 <body>
-  <!-- Visitor hit counter script -->
-  <!-- Visitor number: <script type="text/javascript" src="//counter.websiteout.com/js/21/0/10250/0"></script> -->
-<div align='center'><a href='https://www.free-website-hit-counter.com'><img src='https://www.free-website-hit-counter.com/c.php?d=9&id=167417&s=16' border='0' alt='Free Website Hit Counter'></a></div>
-  <div id="rt-logo"></div>
-  <div class="container">
-    <h1>The Fall.</h1>
-    <h3>In an unfolding corporate saga, a trio of executives grapple with incompetence, betrayal, and moral bankruptcy.
-    As "name redacted" helms the ship, "name redacted", with scant qualifications, plots and sows discord, while "name redacted"
-    hides behind Christian values to justify threatning bully tactics. Together, they steer the company toward financial ruin,
-    alienating key donors and fumbling crucial market opportunities. Mass layoffs target dissenters, and alliances form
-    amidst allegations of misconduct, cyber attacks and financial mismanagement. </h3>
-    <h3>Stay tuned for part one of this saga coming to you in only:</h3>
-    <div id="countdown"></div>
-    <h2>Ezekiel 25:17. "The path of the righteous man is beset on all sides by the inequities of the selfish and the tyranny of evil men..."</h2>
-    <p>Any new evidence? Totally anonymous and protected <a href="mailto:no-more-lies-BSA@proton.me">No More Lies e-mail</a></p>
-  </div>
-  <div class="disclaimer">
-    <p>Disclaimer: This website is intended solely for reporting and disclosure purposes. The content is dedicated to uncovering misconduct, protected under the <a href=https://www.gov.za/documents/acts/protected-disclosures-act-26-2000-07-aug-2000>Protected Disclosures Act 26 of 2000</a>.</p>
-    <p>Logos and content are for illustration purposes and protected under under the <a href=https://www.nolo.com/legal-encyclopedia/fair-use-rule-copyright-material-30100.html>International Fair Use Rule</a> and the <a href=https://www.gov.za/documents/copyright-act-16-apr-2015-0942>Copyright Act, 1978. Section 12</a>.</p>
-    <p>Copyright © 2024. All rights reserved.</p>
-  </div>
+    <header>
+        <div class="container">
+            <h1>The Fall.</h1>
+        </div>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#about">About this page</a></li>
+            <li><a href="#projects">Scope</a></li>
+            <li><a href="#contact">Contact US.</a></li>
+        </ul>
+    </nav>
+    <main>
+        <section id="home" class="content">
+            <div class="container">
+                <h2>Welcome</h2>
+                <p>In an unfolding corporate saga, a trio of executives grapple with incompetence, betrayal, and moral bankruptcy. As "name redacted" helms the ship, "name redacted", with scant qualifications, plots and sows discord, while "name redacted" hides behind Christian values to justify threatning bully tactics. Together, they steer the company toward financial ruin, alienating key donors and fumbling crucial market opportunities. Mass layoffs target dissenters, and alliances form amidst allegations of misconduct, cyber attacks and financial mismanagement.</p>
+            </div>
+        </section>
+        <section id="about" class="content">
+            <div class="container">
+                <h2>Stay tuned for part one of this saga coming to you in:</h2>
+                <div id="countdown"></div>
+            </div>
+        </section>
+        <section id="projects" class="content">
+            <div class="container">
+                <h2>Scope</h2>
+                <p>Ezekiel 25:17. "The path of the righteous man is beset on all sides by the inequities of the selfish and the tyranny of evil men..."</p>
+            </div>
+        </section>
+        <section id="contact" class="content">
+            <div class="container">
+                <h2>Contact</h2>
+                <p>Totally anonymous and protected <a href="mailto:no-more-lies-BSA@proton.me">Contact</a></p>
+            </div>
+        </section>
+<div align='center'><a href='https://www.free-website-hit-counter.com'><img src='https://www.free-website-hit-counter.com/c.php?d=9&id=167417&s=10' border='0' alt='Free Website Hit Counter'></a></div>
+    </main>
+    <footer>
+        <div class="container">
+            <p>Copyright © 2024. All rights reserved.</p>
+<p class="disclaimer">Disclaimer: This website is intended solely for reporting and disclosure purposes. The content is dedicated to uncovering misconduct, protected under the Protected Disclosures Act 26 of 2000.</p>
+        </div>
 
-  <script>
-    // Set the date we're counting down to
-    var countDownDate = new Date("June 1, 2024 00:00:00").getTime();
+        <script>
+            // Set the date we're counting down to
+            var countDownDate = new Date("June 1, 2024 00:00:00").getTime();
 
-    // Update the countdown every 1 second
-    var x = setInterval(function() {
-      // Get the current date and time
-      var now = new Date().getTime();
-      
-      // Calculate the distance between now and the countdown date
-      var distance = countDownDate - now;
-      
-      // Calculate days, hours, minutes, and seconds
-      var days = Math.floor(distance / (1000 * 60 * 60 * 24));
-      var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-      var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
-      var seconds = Math.floor((distance % (1000 * 60)) / 1000);
-      
-      // Display the countdown
-      document.getElementById("countdown").innerHTML = "Countdown: " + days + "d " + hours + "h " + minutes + "m " + seconds + "s ";
-      
-      // If the countdown is over, display a message
-      if (distance < 0) {
-        clearInterval(x);
-        document.getElementById("countdown").innerHTML = "EXPIRED";
-      }
-    }, 1000);
-  </script>
+            // Update the countdown every 1 second
+            var x = setInterval(function() {
+                // Get the current date and time
+                var now = new Date().getTime();
+                
+                // Calculate the distance between now and the countdown date
+                var distance = countDownDate - now;
+                
+                // Calculate days, hours, minutes, and seconds
+                var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+                var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+                var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+                var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+                
+                // Display the countdown
+                document.getElementById("countdown").innerHTML = "Countdown: " + days + "d " + hours + "h " + minutes + "m " + seconds + "s ";
+                
+                // If the countdown is over, display a message
+                if (distance < 0) {
+                    clearInterval(x);
+                    document.getElementById("countdown").innerHTML = "EXPIRED";
+                }
+            }, 1000);
+        </script>
+
+    </footer>
 </body>
 </html>
