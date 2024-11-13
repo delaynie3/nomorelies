@@ -1,13 +1,95 @@
-Ons stel "Hart vir God Woordwinkel" bekend - jou voorste bestemming vir Afrikaanse Bybels en geestelike hulpbronne!
+<!DOCTYPE html>
+<html lang="af">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Hart vir God Woordwinkel</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        header {
+            background-color: #005f73;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+        }
+        main {
+            padding: 20px;
+        }
+        section {
+            margin-bottom: 40px;
+        }
+        h2 {
+            color: #005f73;
+        }
+        .cta-button {
+            display: inline-block;
+            background-color: #008CBA;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: bold;
+        }
+        .cta-button:hover {
+            background-color: #006f8a;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            padding: 10px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
 
-Stap in ons digitale toevlugsoord in die hartjie van die internet-gemeenskap, waar die geur van vars gedrukte bladsye meng met die warmte van gemeenskap. Soos jy ons drumpel oorsteek, berei voor om op 'n reis van geloof, kultuur en verligting te begin.
+<header>
+    <h1>Welkom by Hart vir God Woordwinkel</h1>
+    <p>Jou bestemming vir Afrikaanse Bybels en geestelike hulpbronne!</p>
+</header>
 
-Verken ons noukeurig saamgestelde versameling Afrikaanse Bybels, elke bladsy 'n bewys van die ryk tapisserie van Suid-Afrikaanse erfenis en die blywende krag van God se Woord. Van klassieke vertalings tot kontemporêre interpretasies, ons bied 'n uiteenlopende reeks uitgawes om by elke siel se reis te pas.
+<main>
+    <section>
+        <h2>Verken ons Afrikaanse Bybels</h2>
+        <p>Ons trotse versameling Afrikaanse Bybels is met sorg saamgestel, elkeen 'n skat van die ryk Suid-Afrikaanse erfenis en die onmeetlike diepte van die Woord. Van die klassieke vertalings tot moderne interpretasies, ons het 'n Bybel wat by jou geloofsreis pas – en jy sal verseker die regte een vind om jou elke dag te inspireer en te lei.</p>
+    </section>
 
-Maar ons aanbiedinge stop nie daar nie! Dompel jouself in 'n skatkis van aanvullende hulpbronne: inspirerende oordenkings, verhelderende kommentare, opbouende gesangboeke, en soveel meer. Ons rakke is vol gereedskap om jou geestelike praktyk te verryk en jou verbinding met die goddelike te verdiep.
+    <section>
+        <h2>Meer as net 'n Bybelwinkel</h2>
+        <p>By <strong>Hart vir God Woordwinkel</strong> is ons nie net 'n winkel nie – ons is 'n gemeenskap wat saam die pad van geloof loop. Verken ons wye verskeidenheid van aanvullende geestelike hulpbronne: inspirerende oordenkings, opbouende gesangboeke, verhelderende kommentare, en so veel meer. Of jy nou op soek is na eenheid, insig of net 'n bietjie geestelike nabyheid, ons rakke sal jou nie teleurstel nie.</p>
+    </section>
 
-Sluit by ons aan vir spesiale geleenthede en byeenkomste, waar ons die skoonheid van Afrikaanse taal en kultuur vier deur skriflesings, gesange en gedagteprikkelende besprekings. By "Hart vir God Woordwinkel," glo ons in die bevordering van 'n gemeenskap verenig deur geloof, gemeenskap en 'n gedeelde liefde vir die geskrewe Woord.
+    <section>
+        <h2>Vier ons Kultuur en Gemeenskap</h2>
+        <p>By ons hou ons nie net aan om te winkelen nie – ons leef die geskenk van gemeenskap uit. Sluit by ons aan vir spesiale geleenthede, Bybelstudies, gesamentlike gebed en geselskap, en ander opwindende byeenkomste waar ons die Afrikaanse taal en kultuur vier. Hier sal jy nie net die Woord ontdek nie, maar ook ander gelowiges wat dieselfde liefde vir God se Woord deel.</p>
+    </section>
 
-En terwyl jy ons aanbiedinge deursoek, wees verseker dat ons vriendelike en kundige personeel hier is om jou elke stap van die pad by te staan. Of jy nou leiding soek om die perfekte Bybel te kies of bloot na 'n hartverblydende gesprek smag, ons is toegewyd om te verseker dat jou ervaring niks minder as uitsonderlik is nie.
+    <section>
+        <h2>Ons is hier vir jou!</h2>
+        <p>Ons vriendelike en kundige span is altyd beskikbaar om jou te help. Of jy nou hulp soek om die perfekte Bybel te kies, of jy vrae het oor ander hulpbronne, ons is hier om jou pad te verlig en jou ervaring so betekenisvol moontlik te maak. By <strong>Hart vir God Woordwinkel</strong> is dit ons missie om nie net jou aankope te help nie, maar ook jou geestelike reis te verryk.</p>
+    </section>
 
-So, liewe vriende, kom ervaar self die magie van "Hart vir God Woordwinkel". Of jy nou 'n geestelike soeke aanpak of bloot troos soek in die vertroostende omhelsing van die Skrif, ons nooi jou uit om ons winkel jou huis weg van die huis te maak.
+    <section>
+        <h2>Kom Beleef die Magie!</h2>
+        <p>Ons nooi jou uit om <strong>Hart vir God Woordwinkel</strong> jou geestelike toevlugsoord te maak – jou huis weg van die huis, waar die liefde vir die Skrif en die gemeenskap van gelowiges jou hart sal vul. Kom ontdek die skoonheid van die Afrikaanse taal, die krag van die Bybel, en die vreugde van 'n diepere, ryk geestelike ervaring.</p>
+        <p><a href="#" class="cta-button">Kom ontdek meer</a></p>
+    </section>
+</main>
+
+<footer>
+    <p>&copy; 2024 Hart vir God Woordwinkel | Alle regte voorbehou</p>
+</footer>
+
+</body>
+</html>
